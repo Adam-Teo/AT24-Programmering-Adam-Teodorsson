@@ -1,4 +1,4 @@
 # python-programming-Adam-Teodorsson 
-03 Detta repo kommer innehålla övnings filer och inlämningsuppgifter till AI24 Programmerings kursen. 
+Detta repo kommer innehålla övningar, code-alongs och labrationer skapade för Programmerings Kursen AI24. 
 
  
