@@ -49,7 +49,7 @@ def set_color(points):
 def draw_plot(points, lines, title):
     fig, ax = plt.subplots( dpi=100, figsize=(18, 9)) 
     fig.set_facecolor((0.12, 0.12, 0.12))
-    
+      
     ax.set_ylim(-5.9, 5.9)
     ax.set_facecolor((0.1, 0.1, 0.1))
     ax.set_xlim(-5.9, 5.9)
